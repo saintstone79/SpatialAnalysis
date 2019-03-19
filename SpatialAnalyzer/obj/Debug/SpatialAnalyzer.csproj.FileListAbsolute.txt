@@ -1,0 +1,160 @@
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.ResolveComReference.cache
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.Properties.Resources.resources
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.GenerateResource.cache
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe.config
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.pdb
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.exe
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.pdb
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csprojAssemblyReference.cache
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormAnalyzer.resources
+C:\Users\Euisuk\Source\Repos\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormInputParam.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe.config
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.pdb
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csprojAssemblyReference.cache
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.ResolveComReference.cache
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormAnalyzer.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormInputParam.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.Properties.Resources.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.GenerateResource.cache
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.exe
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.pdb
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x64\concrt140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x64\cvextern.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x64\msvcp140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x64\vcruntime140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x86\concrt140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x86\cvextern.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x86\msvcp140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\x86\vcruntime140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\Emgu.CV.World.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\ZedGraph.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\Emgu.CV.World.xml
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\ZedGraph.xml
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.CopyComplete
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormHomography.resources
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\concrt140.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\cvextern.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\msvcp140.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\vcruntime140.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\concrt140.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\cvextern.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\msvcp140.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\vcruntime140.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe.config
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.pdb
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.World.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ZedGraph.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.World.xml
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ZedGraph.xml
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Interop.WMPLib.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csprojAssemblyReference.cache
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\Interop.WMPLib.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.ResolveComReference.cache
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormAnalyzer.resources
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormInputParam.resources
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.Properties.Resources.resources
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.GenerateResource.cache
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.CopyComplete
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.exe
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.pdb
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormGridBound.resources
+C:\Users\sunge\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormOriginalVideoPlayer.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\concrt140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\cvextern.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\msvcp140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x64\vcruntime140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\concrt140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\cvextern.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\msvcp140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\x86\vcruntime140.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe.config
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe.manifest
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.application
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.exe
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\SpatialAnalyzer.pdb
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.World.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ZedGraph.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\Emgu.CV.World.xml
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ZedGraph.xml
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csprojAssemblyReference.cache
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormAnalyzer.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormGridBound.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormInputParam.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormOriginalVideoPlayer.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.Properties.Resources.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.GenerateResource.cache
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.exe.manifest
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.application
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.csproj.CopyComplete
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.exe
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.pdb
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormObjectDrawer.resources
+C:\Users\Euisuk\Box Sync\VS_Repo\SpatialAnalyzer2.0\SpatialAnalyzer\obj\Debug\SpatialAnalyzer.FormSecondVideoPlayer.resources
