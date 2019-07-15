@@ -1,0 +1,8 @@
+# Ignore folder named bin
+bin/
+
+# Ignore folder named obj
+obj/
+
+# Ignore file extensions
+*.pfx
